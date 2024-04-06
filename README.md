@@ -18,7 +18,7 @@ The management team want to recognise the pattern of sales the public demand acc
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : Check whether data is any missing hello or unnecessary column
+- Step 3 : Check whether data is any missing value or unnecessary column
 - Step 4 : It was observed that There was no empty and null value.
 - Step 5 : Load the data into power bi
 - Step 6 : In the report view, under the view tab, Enter a new theme
@@ -54,4 +54,4 @@ The management team want to recognise the pattern of sales the public demand acc
 [Amazon Sales Analysis Report .pdf](https://github.com/ArnabGH2/Amazon-Sales-Analysis/files/14892537/Amazon.Sales.Analysis.Report.pdf)
 
 
- #### A single page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs and discussing the  key insights.
+ #### A double page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs and discussing the  key insights.
