@@ -1,4 +1,4 @@
-# Bird_Strikes
+# Amazon-Sales-Analysis
 
 This is the 2nd project of my first internship by UM
 
